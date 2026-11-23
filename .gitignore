@@ -1,0 +1,11 @@
+# Timestamped generated reports (the two cleanly named *_sample.xlsx
+# at the project root are kept as samples)
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store

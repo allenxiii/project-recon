@@ -1,0 +1,66 @@
+date,reference,description,counterparty,currency,amount
+2026-10-05,TX20261023,fx settlement,Bank of China HK,USD,-1000.5
+2026-10-04,TX20261037,trade settlement,Client Margin A,HKD,1000.0
+2026-10-14,TX20261028,trade settlement,Standard Chartered,USD,100000.99
+2026-10-03,TX20261050,custody fee,ACME Trading Ltd,EUR,10000.15
+2026-11-07,TX20261026,client funding,Global FX Broker,USD,100.15
+2026-11-05,TX20261044,margin payment,HSBC Settlement,EUR,5000.0
+2026-10-06,TX20261033,fx settlement,Deutsche Bank AG,USD,100000.99
+2026-10-28,TX20261059,interbank transfer,JP Morgan Chase,HKD,50000.0
+2026-10-15,TX20261003,interbank transfer,Client Margin A,HKD,-50000.15
+2026-11-08,TX20261017,interest income,Deutsche Bank AG,HKD,100123.45
+2026-10-25,BANKONLY101,commission fee,Deutsche Bank AG,USD,100.5
+2026-10-11,TX20261011,interest income,Citibank NA,CNY,3178.9
+2026-10-18,TX20261053,margin payment,Deutsche Bank AG,USD,100.99
+2026-10-25,TX20261007,commission fee,Client Margin B,HKD,10123.45
+2026-11-07,TX20261039,margin payment,Deutsche Bank AG,HKD,10000.5
+2026-10-30,TX20261041,margin payment,ACME Trading Ltd,EUR,100123.45
+2026-10-21,TX20261040,commission fee,Deutsche Bank AG,USD,1678.9
+2026-10-12,TX20261052,client funding,HSBC Settlement,CNY,10000.99
+2026-10-13,TX20261055,custody fee,Citibank NA,CNY,500.5
+2026-11-02,BANKONLY103,fx settlement,Global FX Broker,CNY,5123.45
+2026-10-05,TX20261008,interbank transfer,Citibank NA,HKD,500.15
+2026-11-02,TX20261020,margin payment,Citibank NA,USD,2500.15
+2026-10-14,TX20261024,commission fee,Deutsche Bank AG,USD,-10000.99
+2026-11-07,TX20261057,client funding,Global FX Broker,EUR,50000.5
+2026-10-19,TX20261036,client funding,Client Margin B,USD,778.9
+2026-10-14,TX20261013,interbank transfer,Bank of China HK,EUR,-50678.9
+2026-10-30,TX20261032,margin payment,Bank of China HK,USD,500.0
+2026-10-18,TX20261047,client funding,JP Morgan Chase,HKD,1678.9
+2026-10-04,TX20261012,client funding,JP Morgan Chase,USD,50000.5
+2026-11-10,TX20261001,client funding,Citibank NA,HKD,2500.15
+2026-10-28,TX20261058,interest income,Client Margin B,HKD,2500.5
+2026-10-26,TX20261034,fx settlement,Deutsche Bank AG,HKD,100.99
+2026-10-07,TX20261002,interest income,ACME Trading Ltd,HKD,100.0
+2026-10-10,TX20261049,custody fee,Client Margin B,HKD,1000.99
+2026-10-12,TX20261038,margin payment,Standard Chartered,HKD,50000.0
+2026-10-11,TX20261048,interest income,Client Margin A,CNY,100.0
+2026-11-07,TX20261004,client funding,HSBC Settlement,EUR,50000.5
+2026-10-05,TX20261042,commission fee,HSBC Settlement,USD,10000.0
+2026-10-04,TX20261030,client funding,Deutsche Bank AG,HKD,10000.0
+2026-10-13,TX20261054,custody fee,Citibank NA,CNY,2500.15
+2026-11-02,TX20261056,custody fee,ACME Trading Ltd,CNY,500.5
+2026-10-24,TX20261043,fx settlement,Bank of China HK,EUR,5123.45
+2026-10-03,TX20261027,margin payment,Client Margin A,EUR,-2500.5
+2026-10-21,BANKONLY100,commission fee,Client Margin A,CNY,-1000.15
+2026-10-10,TX20261014,fx settlement,Standard Chartered,EUR,-5678.9
+2026-11-09,TX20261060,margin payment,Citibank NA,EUR,-5678.9
+2026-10-07,TX20261051,interest income,Client Margin B,EUR,1000.15
+2026-11-05,TX20261045,commission fee,Citibank NA,USD,3178.9
+2026-10-08,TX20261025,interbank transfer,Global FX Broker,USD,10000.0
+2026-11-07,TX20261015,custody fee,Standard Chartered,CNY,-1123.45
+2026-10-14,TX20261010,margin payment,Client Margin B,EUR,1123.45
+2026-10-25,TX20261009,trade settlement,JP Morgan Chase,EUR,1000.5
+2026-10-23,TX20261006,commission fee,ACME Trading Ltd,EUR,100123.45
+2026-10-30,TX20261035,interest income,Client Margin A,EUR,100000.15
+2026-10-11,TX20261021,custody fee,Bank of China HK,HKD,100.0
+2026-10-20,TX20261022,client funding,Standard Chartered,USD,-500.0
+2026-10-06,BANKONLY104,commission fee,Standard Chartered,USD,2500.15
+2026-10-06,TX20261016,margin payment,HSBC Settlement,HKD,-1678.9
+2026-10-08,TX20261019,interest income,HSBC Settlement,EUR,100000.0
+2026-10-14,TX20261046,trade settlement,Citibank NA,EUR,-100.0
+2026-10-10,TX20261005,custody fee,Global FX Broker,USD,500.99
+2026-10-07,TX20261029,interest income,JP Morgan Chase,HKD,-50000.99
+2026-11-05,TX20261018,margin payment,Client Margin A,HKD,5678.9
+2026-10-13,TX20261031,trade settlement,HSBC Settlement,USD,50000.15
+2026-10-14,BANKONLY102,custody fee,Bank of China HK,CNY,100000.99
